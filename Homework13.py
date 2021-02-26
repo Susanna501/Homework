@@ -1,6 +1,6 @@
 '''Task1. Write a Python program to count the elements in a list 
 until an element is a tuple.'''
-
+# Thank you Arno
 tuplelist = [1,2,3,4,(5,6),7,8]
 a = 0
 for i in tuplelist:
